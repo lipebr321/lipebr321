@@ -17,10 +17,12 @@ Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e esc
   <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+</div><br>
+
  ##
 - 🌟 Atualmente focado em: C#, JavaScript, HTML5, CSS3, React Native e ReactJS.
 - 🔭 Estou constantemente explorando novas ferramentas e frameworks para expandir meu conhecimento.
 - 🚀 Busco contribuir para projetos de código aberto e aprender com a comunidade.
+-  ##
 
 Fique à vontade para explorar meus repositórios e entre em contato! 😊
