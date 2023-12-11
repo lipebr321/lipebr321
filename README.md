@@ -1,4 +1,4 @@
-# Olá, Mundo! 👋 Sou [Luis Felipe Pereira]
+## Olá, Mundo! 👋 Sou Luis Felipe Pereira
 
 ## Sobre mim
 Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e escaláveis. Minha jornada na programação começou há algum tempo, e desde então tenho explorado um vasto espectro de tecnologias para aprimorar minhas habilidades.
@@ -19,10 +19,12 @@ Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e esc
   <img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br>
 
+![Snake animation](https://github.com/lipebr321/lipebr321/blod/output/github-contribution-grid-snake.svg)
+
  ##
 - 🌟 Atualmente focado em: C#, JavaScript, HTML5, CSS3, React Native e ReactJS.
 - 🔭 Estou constantemente explorando novas ferramentas e frameworks para expandir meu conhecimento.
 - 🚀 Busco contribuir para projetos de código aberto e aprender com a comunidade.
--  ##
+ ##
 
 Fique à vontade para explorar meus repositórios e entre em contato! 😊
