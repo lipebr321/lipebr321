@@ -19,7 +19,7 @@ Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e esc
   <img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br>
 
-![Snake animation](https://github.com/lipebr321/lipebr321/blod/output/github-contribution-grid-snake.svg)
+
 
  ##
 - 🌟 Atualmente focado em: C#, JavaScript, HTML5, CSS3, React Native e ReactJS.
