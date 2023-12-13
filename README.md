@@ -27,4 +27,4 @@ Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e esc
 - 🚀 Busco contribuir para projetos de código aberto e aprender com a comunidade.
  ##
 
-Fique à vontade para explorar meus repositórios e entre em contato! 😊
+Fique à vontade para explorar os repositórios e entre em contato! 😊
