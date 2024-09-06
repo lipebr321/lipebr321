@@ -2,6 +2,8 @@
 
 ## Sobre mim
 Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e escaláveis. Minha jornada na programação começou há algum tempo, e desde então tenho explorado um vasto espectro de tecnologias para aprimorar minhas habilidades.
+Estou me graduando em Ciencias de dados, e a cada dia ficando mais empolgado com as possibilidades da area de tecnologia.
+
  ##
 ![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=lipebr321&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipebr321&layout=donut)](https://github.com/lipebr321/github-readme-stats)
@@ -22,7 +24,7 @@ Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e esc
 
 
  ##
-- 🌟 Atualmente focado em: C#, JavaScript, HTML5, CSS3, React Native e ReactJS.
+- 🌟 Atualmente focado em: C#, JavaScript, HTML5, CSS3, React Native, ReactJS e Python.
 - 🔭 Estou constantemente explorando novas ferramentas e frameworks para expandir meu conhecimento.
 - 🚀 Busco contribuir para projetos de código aberto e aprender com a comunidade.
  ##
